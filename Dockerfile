@@ -1,4 +1,4 @@
-FROM billyteves/alpine:latest
+FROM billyteves/alpine:3.5.0
 
 MAINTAINER Susanna Martinelli <susanna.martinelli@geouniq.com>
 
